@@ -1,6 +1,5 @@
 hi! check out my site [kayliechoi.com](https://www.kayliechoi.com/) for more ðŸ¯
-
-``` 
+ ``` 
               (^\-==-/^)
               >\\ == //<
              :== q''p ==:      _,.---.._
@@ -13,4 +12,14 @@ hi! check out my site [kayliechoi.com](https://www.kayliechoi.com/) for more ðŸ
              --       | |            /_.   |-|
                   __' | |   ._ ___   \  )  | |
           ________'__ddd'_______._____""__ddd'_________
-```
+``` 
+
+<!--```
+                      |
+                     _=_
+                     \ /.           _=
+        .-.    _ .-_ |  |_         |  |
+ "   _  | |   | ||  \|    |_.--.   |  |
+ |  | |_| |-__| ||          |  |,-.|  |-_   __
+|H|-|   '                          |     | |  |
+```-->
