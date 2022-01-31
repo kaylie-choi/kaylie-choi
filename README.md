@@ -1,16 +1,17 @@
-### Hi there, I'm Kaylie 👋
+hi! check out my site [kayliechoi.com](https://www.kayliechoi.com/) for more 🐯
 
-<!--
-**kaylie-choi/kaylie-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` 
+              (^\-==-/^)
+              >\\ == //<
+             :== q''p ==:      _,.---.._
+              .__ qp __. ~.-'"'\   |   |''..
+                 ^--^  | | \  \ |   , || /  '-. _______ .":
+                  ;| | |    | |     |/   .^-./ _)_)__))_).'
+                 / \ /      |       \ /  {/ \
+             ..-'\_ \   \       ,.--'\ _ ) _/\
+            |  ,_../ \- |'---"""      '-/ \  |
+             --       | |            /_.   |-|
+                  __' | |   ._ ___   \  )  | |__
+          _,______'__ddd'_______._____""__ddd'___SK______
+                  __________,______.   _._ 
+```
