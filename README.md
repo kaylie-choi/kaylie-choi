@@ -1,4 +1,6 @@
-hi! check out my site [kayliechoi.com](https://www.kayliechoi.com/) for more 🐯
+### hey, i'm kaylie 🌱
+
+check out my personal site [kayliechoi.com](https://www.kayliechoi.com/) for more details about my software engineering experience!
  ``` 
               (^\-==-/^)
               >\\ == //<
